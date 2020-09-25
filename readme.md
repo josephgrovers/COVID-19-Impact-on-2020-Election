@@ -19,7 +19,7 @@ With the presidential race happening at the tail-end of 2020, the COVID-19 pande
 ## Findings
 - President Trump’s national approval ratings have only slightly gone down with COVID-19’s development
 - Counties’ COVID-19 case rates are not a strong indicator of political views
-- Joe Biden is currently(9/15/2020) the likely winner of the 2020 US election
+- According to time-series forecasting of swing state polling data through to 9/15/2020, Joe Biden is the likely winner of the 2020 US election according 
 
 # Methodology
 
