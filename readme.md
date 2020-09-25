@@ -11,15 +11,13 @@ With the presidential race happening at the tail-end of 2020, the COVID-19 pande
 ## Objective
 
 - Examine how Trump's approval ratings have changed in response to his handling of COVID-19
-
 - See if different political views correspond to higher or lower rates, using SHAP feature importance to view classification impact from COVID-19 cases per capita.
-
 - Forecast the 2020 election
 
 ## Findings
-- President Trump’s national approval ratings have only slightly gone down with COVID-19’s development
-- Counties’ COVID-19 case rates are not a strong indicator of political views
-- According to time-series forecasting of swing state polling data through to 9/15/2020, Joe Biden is the likely winner of the 2020 US election according 
+- President Trump’s national approval ratings have only slightly gone down with COVID-19’s development.
+- Counties’ COVID-19 case rates are not a strong indicator of political views.
+- According to time-series forecasting of swing state polling data through to 9/15/2020, Joe Biden is the likely winner of the 2020 US election.
 
 # Methodology
 
