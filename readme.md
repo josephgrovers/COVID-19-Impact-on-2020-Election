@@ -17,9 +17,9 @@ With the presidential race happening at the tail-end of 2020, the COVID-19 pande
 - Forecast the 2020 election
 
 ## Findings
-President Trump’s national approval ratings have only slightly gone down with COVID-19’s development
-Counties’ COVID-19 case rates are not a strong indicator of political views
-Joe Biden is currently(9/15/2020) the likely winner of the 2020 US election
+- President Trump’s national approval ratings have only slightly gone down with COVID-19’s development
+- Counties’ COVID-19 case rates are not a strong indicator of political views
+- Joe Biden is currently(9/15/2020) the likely winner of the 2020 US election
 
 # Methodology
 
